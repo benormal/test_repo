@@ -1,4 +1,6 @@
-i#include <stdio.h>
+// For command line git tutorial
+// Local repository modification
+#include <stdio.h>
 
 int main(void){
 	printf("Hello World\n");
